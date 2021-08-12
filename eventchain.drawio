@@ -1,34 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T05:53:23.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="27cdSD7q9VaMGJqTxTTF" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T06:52:18.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ORp1oVESuaIdFBLbWFK0" version="14.9.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1662" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Prov_Com_Rx_msg" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="40" width="100" height="800" as="geometry" />
+          <mxGeometry x="170" y="40" width="100" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Prov_Flex" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="40" width="100" height="800" as="geometry" />
+          <mxGeometry x="350" y="40" width="100" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="170" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O0rYHsYLg1H_dyIOlwgl-3" value="Prov_RealAnalysis" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="40" width="100" height="800" as="geometry" />
+          <mxGeometry x="530" y="40" width="100" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="O0rYHsYLg1H_dyIOlwgl-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="O0rYHsYLg1H_dyIOlwgl-3">
           <mxGeometry x="45" y="230" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="O0rYHsYLg1H_dyIOlwgl-7" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="40" width="100" height="800" as="geometry" />
-        </mxCell>
-        <mxCell id="O0rYHsYLg1H_dyIOlwgl-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="O0rYHsYLg1H_dyIOlwgl-7">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="O0rYHsYLg1H_dyIOlwgl-13" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1285" y="40" width="100" height="300" as="geometry" />
@@ -71,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O0rYHsYLg1H_dyIOlwgl-25" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="10" height="760" as="geometry" />
+          <mxGeometry x="40" y="80" width="10" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="O0rYHsYLg1H_dyIOlwgl-27" value="Prov_AppRxCallback()&#xa;REQ_CONNECT" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -130,10 +124,7 @@
             <mxPoint x="584.5" y="389.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0rYHsYLg1H_dyIOlwgl-54" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Prov_ra_set_EventChainConfig(CoreID, OnOff=TRUE)&lt;br&gt;Start item info, End item info, ID, TRT 형태로 입력받은 eventchain 정보를 RA하기 위한 구조체로 옮기는 과정.&lt;br&gt;eventchain index = ID;&lt;br&gt;StartInform, EndInform의 f_onEVc = TRUE;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="290" width="310" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O0rYHsYLg1H_dyIOlwgl-55" value="dfsdf" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-55" value="Prov_ra_set_EventChainConfig(CoreID, OnOff=TRUE)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="334.5000000000001" as="sourcePoint" />
             <mxPoint x="660" y="335" as="targetPoint" />
@@ -172,7 +163,7 @@
             <mxPoint x="584.5" y="588.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0rYHsYLg1H_dyIOlwgl-72" value="dfsdf" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-72" value="Prov_ra_set_EventChainConfig(CoreID, OnOff=TRUE)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="533.5" as="sourcePoint" />
             <mxPoint x="660" y="534" as="targetPoint" />
@@ -184,11 +175,80 @@
             <mxPoint x="660" y="558" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0rYHsYLg1H_dyIOlwgl-74" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Prov_ra_set_EventChainConfig(CoreID, OnOff=TRUE)&lt;br&gt;Start item info, End item info, ID, TRT 형태로 입력받은 eventchain 정보를 RA하기 위한 구조체로 옮기는 과정.&lt;br&gt;eventchain index = ID;&lt;br&gt;StartInform, EndInform의 f_onEVc = TRUE;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="489" width="310" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="O0rYHsYLg1H_dyIOlwgl-75" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="575" y="470" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-76" value="Prov_AppRxCallback()&#xa;REQ_START_MEASURE" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="690.0000000000001" as="sourcePoint" />
+            <mxPoint x="220" y="690.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-77" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="690" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-78" value="Prov_ResponseStatus()&#xa;RES_START_MEASURE" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="719.5" as="sourcePoint" />
+            <mxPoint x="50" y="719.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-79" value="ra_autoSelectStart()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="730" as="sourcePoint" />
+            <mxPoint x="579.5" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-80" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="730" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-83" value="ra_startRA()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="750" as="sourcePoint" />
+            <mxPoint x="665" y="750.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-86" value="Prov_ra_loadChk_SavedMaxTimingParam()  : 기능별 min/max값 갱신" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="770" as="sourcePoint" />
+            <mxPoint x="750" y="770.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-87" value="Prov_ra_ehSaveContainner() : 실제 갱신이 이루어짐" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="789.5" as="sourcePoint" />
+            <mxPoint x="830" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-88" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="809" as="targetPoint" />
+            <mxPoint x="830" y="809" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-89" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="849.9999999999998" as="targetPoint" />
+            <mxPoint x="584.5" y="849.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-92" value="Prov_StartTriggerSetting()  : Trigger 초기화 및 enable" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="830" as="sourcePoint" />
+            <mxPoint x="760" y="830.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-93" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="850" as="targetPoint" />
+            <mxPoint x="760" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-94" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Start item info, End item info, ID, TRT 형태로 입력받은 eventchain 정보를 RA하기 위한 구조체로 옮기는 과정.&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;eventchain index = ID;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;StartInform, EndInform의 f_onEVc = TRUE;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.09;size=10;position=0.14;base=30;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O0rYHsYLg1H_dyIOlwgl-95" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Start item info, End item info, ID, TRT 형태로 입력받은 eventchain 정보를 RA하기 위한 구조체로 옮기는 과정.&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;eventchain index = ID;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;StartInform, EndInform의 f_onEVc = TRUE;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.09;size=10;position=0.14;base=30;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="720" y="430" width="300" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
